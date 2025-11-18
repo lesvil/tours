@@ -46,7 +46,7 @@ html {
   color: #FFFFFF;
   padding: 20px;
   margin-left: 50px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: yorkmade, sans-serif;
 }
 
 ul.menu {
@@ -114,7 +114,7 @@ ul.menu {
 .banner-heading h1 {
   font-size: 100px;
   font-weight: normal;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: sans-serif;
   color: #ffffff;
   font-family: Satisfy;
 }
@@ -775,3 +775,4 @@ img {
     }
 }  
 }
+
